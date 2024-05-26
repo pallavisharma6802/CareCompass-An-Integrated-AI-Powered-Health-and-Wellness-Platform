@@ -1,0 +1,1 @@
+This folder contains all the data required by the project, including raw and processed datasets. It ensures data integrity and consistency for reproducibility and analysis. Access to this folder may be restricted to authorized personnel due to the sensitive nature of the data.
