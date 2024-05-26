@@ -1,0 +1,1 @@
+This folder contains the frontend built with Streamlit for an advanced diagnostic system that transcends traditional methods by incorporating emotional intelligence assessments. Key features include symptom diagnosis, calorie tracking, emotional intelligence support, and personalized healthy meal planning, emphasizing the vital link between mental and physical health.
