@@ -1,0 +1,1 @@
+This directory contains data modelling scripts and assets processing logic. It includes FastAPI configurations and endpoints for hosting and serving the model predictions. Essential documentation and utilities for API management are also provided.
