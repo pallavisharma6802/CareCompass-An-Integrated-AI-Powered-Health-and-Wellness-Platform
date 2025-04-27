@@ -1,4 +1,4 @@
-# Care-Compass: AI Driven Healthcare Management System:
+# Care-Compass: An Integrated AI-Powered Health and Wellness Platform:
 
 ## Overview
 **CareCompass** is an integrated healthcare and self-care platform built with **Streamlit** and **FastAPI**.  
