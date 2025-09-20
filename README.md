@@ -29,9 +29,6 @@ It offers users a range of tools to promote physical and mental well-being, incl
 ```
 CareCompass-main/
 │
-├── assets/                  # Firebase credentials, supporting files
-│   └── description.txt
-│
 ├── backend/                 # FastAPI backend for meal recommendation system
 │   ├── main.py
 │   ├── model.py
@@ -70,19 +67,3 @@ streamlit run signin_signup.py
 
 - Ensure your Firebase credentials (JSON) and Google Gemini-Pro API key are correctly configured.
 - The Meal-Maker module will communicate with the FastAPI backend running locally.
-
----
-
-## Installation
-Install dependencies from the `requirements.txt` file:
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Future Work
-- Extend food recommendations with a larger public nutrition database (e.g., USDA).
-- Add user profile history tracking and personalized suggestions.
-- Enhance security with token-based authentication (OAuth 2.0).
-- Integrate real-time health data from wearables.
